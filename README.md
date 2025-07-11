@@ -74,8 +74,6 @@ Concept and scripting by **Norino** — built for precision, privacy, and practi
 
 ---
 
-Want to expand this into a full documentation suite or versioned changelog? Or include visual examples and icon previews? Just say the word.
-
 Known bug:
 
 Some pop up if compiled to .exe
