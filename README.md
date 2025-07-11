@@ -70,7 +70,7 @@ Invoke-PS2EXE -InputFile .\gridoverlay.ps1 -OutputFile .\gridoverlay.exe -IconFi
 ## 📄 License & Credits
 
 This tool is released under MIT License.  
-Concept and scripting by **Norino** — built for precision, privacy, and practicality.
+Concept and scripting by **kardelitaitu** and Copilot — built for precision, privacy, and practicality.
 
 ---
 
